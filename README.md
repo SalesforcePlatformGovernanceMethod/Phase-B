@@ -2,9 +2,9 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-b/blob/d369aa8d6d3506175ab6377dfc497702becca380/images/phase-b.png" title="Phase A">
 </p>
 
-## Phase B: Data Architecture &amp; Management
+# Phase B: Data Architecture &amp; Management
 
-**Design & Optimisation**
+## **Design & Optimisation**
 
 - [Data modelling](https://trailhead.salesforce.com/content/learn/modules/data_modeling)
 
@@ -64,7 +64,7 @@
 
 - [Ask An Architect - Effective Salesforce Data Management Strategy Part2](https://www.salesforce.org/blog/ask-an-architect-5-steps-to-an-effective-salesforce-data-management-strategy/)
 
-**Data Movement**
+## **Data Movement**
 
 - [Import Data Into Salesforce](https://help.salesforce.com/articleView?id=sf.importing.htm&type=5)
 
