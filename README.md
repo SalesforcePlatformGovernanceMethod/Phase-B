@@ -16,25 +16,11 @@
 
 - [Salesforce Connect Considerations for all Adaptors](https://help.salesforce.com/articleView?id=sf.platform_connect_considerations.htm&type=5)
 
-**Custom Metadata Types**
-
-- [Custom Metadata Types](https://help.salesforce.com/articleView?id=sf.custommetadatatypes_overview.htm&type=5)
-
-- [Introducing Custom Metada Types: Blog](https://developer.salesforce.com/blogs/engineering/2015/04/custom-metadata-types-ga)
-
 - [Custom Settings](https://help.salesforce.com/articleView?id=cs_about.htm&type=0)
 
 - [Picklist vs Custom Objects and Associated limitations](https://help.salesforce.com/articleView?id=sf.picklist_limitations.htm&type=5)
 
 - [Picklist Performance](https://help.salesforce.com/articleView?id=release-notes.rn_forcecom_fields_inactive_picklist.htm&type=5&release=232)
-
-**Data Management Best Practise Guides**
-
-- [Data Management Best Practise Guides](https://help.salesforce.com/articleView?id=000354590&language=en_US&mode=1&type=1)
-
-- [Ask An Architect - Effective Salesforce Data Management Strategy Part1](https://www.salesforce.org/blog/ask-architect-5-steps-effective-salesforce-data-management-strategy/)
-
-- [Ask An Architect - Effective Salesforce Data Management Strategy Part2](https://www.salesforce.org/blog/ask-an-architect-5-steps-to-an-effective-salesforce-data-management-strategy/)
 
 - [The Ultimate Guide to Salesforce Integration](https://medium.com/emorphis-technologies/the-ultimate-guide-to-salesforce-integration-ba54010c5f3d)
 
@@ -63,6 +49,20 @@
 - [Salesforce Query Search Optimisation Cheat Sheet](http://resources.docs.salesforce.com/194/0/en-us/sfdc/pdf/salesforce_query_search_optimization_developer_cheatsheet.pdf)
 
 - [Make SOQL Selective](https://help.salesforce.com/articleView?id=000325257&type=1&mode=1&language=en_US)
+
+**Custom Metadata Types**
+
+- [Custom Metadata Types](https://help.salesforce.com/articleView?id=sf.custommetadatatypes_overview.htm&type=5)
+
+- [Introducing Custom Metada Types: Blog](https://developer.salesforce.com/blogs/engineering/2015/04/custom-metadata-types-ga)
+
+**Data Management Best Practise Guides**
+
+- [Data Management Best Practise Guides](https://help.salesforce.com/articleView?id=000354590&language=en_US&mode=1&type=1)
+
+- [Ask An Architect - Effective Salesforce Data Management Strategy Part1](https://www.salesforce.org/blog/ask-architect-5-steps-effective-salesforce-data-management-strategy/)
+
+- [Ask An Architect - Effective Salesforce Data Management Strategy Part2](https://www.salesforce.org/blog/ask-an-architect-5-steps-to-an-effective-salesforce-data-management-strategy/)
 
 **Data Movement**
 
